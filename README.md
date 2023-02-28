@@ -6,9 +6,9 @@ A complete one stop tutorial from scratch in machine learning, deep learning, co
 Highlights of the series:
 
 * The series will be by itself a complete standalone course material with minimal resource hopping as well as limiting opened tabs both in our browser and in our brain.  
-* The tutorials in this series will be supported by corresponding spelled-out blog.  
+* The tutorials in this series will be supported by corresponding spelled-out blogs.
 * Each individual tutorial will be complete in its entirety with the marriage of concepts with codes. (No more fighting !)  
-* Practical project based learning approach with end-to-end streamlined pipeline.  
+* Follow along, practical project-based learning approach with end-to-end streamlined pipeline supported by visualizations and intuitions.
 * Series:
   * Preliminaries and groundwork (let the base up !)
     * Python 
@@ -22,8 +22,10 @@ Highlights of the series:
     * PyTorch
     * PyTorch Lightning
   * Computer vision (CV- now the fun begins I)
+    * Image and video processing (IVP- traditional approach)
+    * Deep learning based visual perception
   * Natural language processing (NLP- now the fun begins II)
-  * Explainable AI (XAI- where the fun is coming from)
+  * Explainable AI (XAI- where the fun is coming from?)
   * Multimodal AI (MMAI - combine the individual fun)
   * Machine Learning Operations (MLOps- singing and dancing in production and real world)
 
