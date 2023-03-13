@@ -27,7 +27,7 @@ Highlights of the series:
   * Natural language processing (NLP)
   * Explainable AI (XAI)
   * Multimodal AI (MMAI)
-  * Machine Learning Operations (MLOps- singing and dancing in production and real world)
+  * Machine Learning Operations (MLOps)
 
   
 **NOTE:**    
