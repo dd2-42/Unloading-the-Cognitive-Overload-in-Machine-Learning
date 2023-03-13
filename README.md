@@ -10,23 +10,23 @@ Highlights of the series:
 * Each individual tutorial will be complete in its entirety with the marriage of concepts with codes. (No more fighting !)  
 * Follow along, practical project-based learning approach with end-to-end streamlined pipeline supported by visualizations and intuitions.
 * Series:
-  * Preliminaries and groundwork (let the base up !)
+  * Preliminaries and groundwork
     * Python 
     * Libraries:
       * Numpy
       * Pandas
       * Matplotlib and Seaborn
-  * Machine learning (ML- evolution I)
+  * Machine learning (ML)
     * Scikit-learn
-  * Deep learning (DL- evolution II)
+  * Deep learning (DL)
     * PyTorch
     * PyTorch Lightning
-  * Computer vision (CV- now the fun begins I)
-    * Image and video processing (IVP- traditional approach)
+  * Computer vision (CV)
+    * Image and video processing (IVP)
     * Deep learning based visual perception
-  * Natural language processing (NLP- now the fun begins II)
-  * Explainable AI (XAI- where the fun is coming from?)
-  * Multimodal AI (MMAI - combine the individual fun)
+  * Natural language processing (NLP)
+  * Explainable AI (XAI)
+  * Multimodal AI (MMAI)
   * Machine Learning Operations (MLOps- singing and dancing in production and real world)
 
   
