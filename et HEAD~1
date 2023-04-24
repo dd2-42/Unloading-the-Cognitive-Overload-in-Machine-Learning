@@ -1,0 +1,82 @@
+[33mcommit 93380ae80fc0b9def19b64b867526c8760eacb4c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Mon Apr 24 22:29:26 2023 +0530
+
+    Added new tutorials
+
+Computer_Vision/CNNs/LeNet-5_MNIST/LeNET-5_MNIST.ipynb
+Computer_Vision/CNNs/LeNet-5_MNIST/LeNET-5_MNIST_new.ipynb
+Computer_Vision/CNNs/LeNet-5_MNIST/README.md
+Computer_Vision/CNNs/LeNet-5_MNIST/datasets/Note.txt
+Computer_Vision/CNNs/LeNet-5_MNIST/models/Note.txt
+Computer_Vision/CNNs/LeNet-5_MNIST/runs/Note.txt
+Computer_Vision/CNNs/LeNet-5_MNIST/test.ipynb
+Computer_Vision/GANs/DCGAN_FMNIST.ipynb
+Computer_Vision/XAI/CNN_Visualizations/CNN_Visualizations_01.ipynb
+Computer_Vision/XAI/CNN_Visualizations/README.md
+Computer_Vision/XAI/CNN_Visualizations/car_01.jpeg
+Computer_Vision/XAI/CNN_Visualizations/imagenetv1.txt
+Computer_Vision/XAI/CNN_Visualizations/weights/Note.txt
+
+[33mcommit 86f6c74a6ff79f26dc4f20f4a1f8e6ce521eff5e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Sun Apr 9 00:48:28 2023 +0530
+
+    Updated README.md
+
+Computer_Vision/GANs/README.md
+
+[33mcommit d0c0a95f1924c366e8c27c6eabb57d21837e5217[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Sun Apr 9 00:45:45 2023 +0530
+
+    Added DCGAN_FMNIST.ipynb
+
+Computer_Vision/GANs/DCGAN_FMNIST.ipynb
+Computer_Vision/LeNet-5_MNIST/LeNET-5_MNIST.ipynb
+
+[33mcommit 5b404a9a119e7cf2be9ac742d4dece574b53d7de[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Sun Apr 9 00:35:35 2023 +0530
+
+    Added GAN_MNIST.ipynb
+
+Computer_Vision/GANs/GAN_MNIST.ipynb
+
+[33mcommit e9448ad07bda800b265f3e931b51c302381df06d[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Sun Apr 9 00:34:43 2023 +0530
+
+    test
+
+Computer_Vision/GANs/Chapter_08_gan_mnist.ipynb
+
+[33mcommit 766ffd7f6d1aaa1596d3fa3049afbdea20973da4[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Sun Apr 2 20:54:41 2023 +0530
+
+    Added README.md
+
+Computer_Vision/GANs/README.md
+
+[33mcommit f5d03bebcf6ffc8a701a470826ab5e01503866da[m
+Author: Deepesh Deepak <deepeshdeepakdd2@gmail.com>
+Date:   Sun Apr 2 20:49:08 2023 +0530
+
+    Initial Commit
+
+Computer_Vision/GANs/Chapter_08_gan_mnist.ipynb
+Computer_Vision/LeNet-5_MNIST/LeNET-5_MNIST.ipynb
+Computer_Vision/LeNet-5_MNIST/README.md
+Computer_Vision/LeNet-5_MNIST/datasets/Note.txt
+Computer_Vision/LeNet-5_MNIST/models/Note.txt
+Computer_Vision/LeNet-5_MNIST/runs/Note.txt
+README.md
+
+[33mcommit d0ff03f672f5b1ce42286423004effa5d13d53d7[m
+Author: Deepesh Deepak <71163637+dd2-42@users.noreply.github.com>
+Date:   Sun Apr 2 20:45:11 2023 +0530
+
+    Initial commit
+
+README.md
